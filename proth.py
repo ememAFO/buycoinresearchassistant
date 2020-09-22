@@ -21,7 +21,7 @@ def isProth(n):
     return False
 
 
-# Get n from user input
+# Get n from user input.
 print("Enter a number")
 n = int(input())
 
